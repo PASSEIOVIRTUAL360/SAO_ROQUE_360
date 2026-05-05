@@ -1,0 +1,23 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_FA8282E6_F668_29F0_41C6_C4ED1A03DC67.label = 1 centro
+panorama_FD436CBC_F668_3850_41EC_F9ECB0923367.label = 1 roteiro
+panorama_FD4F3554_F668_28D1_41E1_54B1E93EF6D5.label = 1.1 roteiro
+panorama_FD4EEDFD_F668_1BD3_41D0_42DF51989046.label = 2 centro
+panorama_FD4F66E1_F668_69F0_41DC_4244E251664C.label = 2 roteiro
+panorama_FD4F5FE4_F668_77F0_41B2_E33586D225F8.label = 2.1 roteiro
+panorama_FD4F78A7_F668_187F_41EB_264BA4BAE803.label = 3 centro
+panorama_FD4F41DC_F668_2BD1_41D3_251F9889FEFC.label = 3 roteiro
+panorama_FD4F3B12_F668_3851_41A8_5322DDEE9372.label = 4 roteiro
+panorama_FD4F449C_F668_2851_41DA_767A73E94188.label = 5 roteiro
+panorama_FD4F0E40_F668_1831_41D0_FD9FB6D689A8.label = 6 roteiro
+
+## Tour
+
+### Description
+
+### Title
+tour.name = SAO ROQUE 360
